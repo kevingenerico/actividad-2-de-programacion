@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.exe
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.deps.json
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.runtimeconfig.json
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.runtimeconfig.dev.json
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.dll
+C:\Users\PC\source\repos\patonobserver_CSharp\bin\Debug\netcoreapp3.1\patonobserver_CSharp.pdb
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.AssemblyInfo.cs
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.dll
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.pdb
+C:\Users\PC\source\repos\patonobserver_CSharp\obj\Debug\netcoreapp3.1\patonobserver_CSharp.genruntimeconfig.cache
