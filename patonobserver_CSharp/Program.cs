@@ -20,7 +20,6 @@ namespace patonobserver_CSharp
 
             // Subo video
             user4.subirVideo("la mejor partida de fornite");
-            Console.WriteLine("");
             user3.subirVideo("cusro de angular 10");
 
             Console.ReadLine();
