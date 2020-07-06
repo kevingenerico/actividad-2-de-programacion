@@ -22,7 +22,7 @@ namespace patonobserver_CSharp
             user4.subirVideo("la mejor partida de fornite");
             user3.subirVideo("cusro de angular 10");
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
