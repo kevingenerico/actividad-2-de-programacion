@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.exe
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.deps.json
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.runtimeconfig.json
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.runtimeconfig.dev.json
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.dll
+C:\Users\PC\source\repos\patronsingleton_CSharp\bin\Debug\netcoreapp3.1\patronsingleton_CSharp.pdb
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.AssemblyInfo.cs
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.dll
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.pdb
+C:\Users\PC\source\repos\patronsingleton_CSharp\obj\Debug\netcoreapp3.1\patronsingleton_CSharp.genruntimeconfig.cache
