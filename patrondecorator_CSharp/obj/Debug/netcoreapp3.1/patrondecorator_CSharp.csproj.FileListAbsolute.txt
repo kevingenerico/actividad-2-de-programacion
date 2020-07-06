@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.exe
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.deps.json
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.runtimeconfig.json
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.runtimeconfig.dev.json
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.dll
+C:\Users\PC\source\repos\patrondecorator_CSharp\bin\Debug\netcoreapp3.1\patrondecorator_CSharp.pdb
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.AssemblyInfo.cs
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.dll
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.pdb
+C:\Users\PC\source\repos\patrondecorator_CSharp\obj\Debug\netcoreapp3.1\patrondecorator_CSharp.genruntimeconfig.cache
