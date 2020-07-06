@@ -26,7 +26,7 @@ namespace patonobserver_CSharp
 
         public void recibirAviso(string usuario, string nombreVideo)
         {
-            Console.WriteLine("oye "+ this.username + " sabes que " + usuario + " ha subido un video. Titulo: " + nombreVideo);
+            Console.WriteLine("oye "+ this.username + " sabes que " + usuario + " ha subido un video. Titulo: " + nombreVideo +"\n");
         }
 
         public void subscribirseA(Usuario usuario)
